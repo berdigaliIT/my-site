@@ -1,0 +1,17 @@
+body {
+color: black;
+background-color: white;
+}
+
+.text-center {
+display: flex;
+align-items: center;
+justify-content: center;
+color: black;
+gap: 60px;
+font-size: 40px;
+}
+
+
+
+
